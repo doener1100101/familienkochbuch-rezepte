@@ -51,6 +51,7 @@ erstellt: "2026-10-04"
 - Für Kinder Curry reduzieren, Schärfe am Tisch nachwürzen.
 - Hält sich 3 Tage im Kühlschrank.
 - Korrigiert am 2026-10-05 (Hinweis von Marcel): Titel „Beispiel – Linsen-Dal“ → „Linsen-Dal“
+- Das Foto ist nur ein gezeichneter Platzhalter – beim nächsten Kochen gerne ein echtes Foto schicken.
 
 ## Kochlog
 - 2026-10-04 – Beispieleintrag: nächstes Mal mehr Ingwer.
