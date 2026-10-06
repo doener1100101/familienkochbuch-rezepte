@@ -18,9 +18,6 @@ tags:
   - deutsch
 kinderfreundlich: true
 einfrierbar: false
-status: Ausprobieren
-bewertung:
-zuletzt_gekocht:
 quelle: Instagram @melissasfoodspace
 von: Marcel
 erstellt: "2026-10-04"
@@ -53,6 +50,3 @@ erstellt: "2026-10-04"
 - Kastenform 22–24 cm.
 - Portionen und Vorbereitungszeit nicht angegeben; nur die Backzeit (45 Min.) ist bekannt, dazu kommt die Auskühlzeit.
 - Laut Quelle auch als Frühstück gedacht. Auf dem Foto zusätzlich mit Puderzucker bestäubt.
-
-## Kochlog
-- 

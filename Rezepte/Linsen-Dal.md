@@ -18,9 +18,6 @@ tags:
   - indisch
 kinderfreundlich: true
 einfrierbar: true
-status: Bewährt
-bewertung: 4
-zuletzt_gekocht: 2026-10-04
 quelle: Familienrezept
 von: Marcel
 erstellt: "2026-10-04"
@@ -52,6 +49,3 @@ erstellt: "2026-10-04"
 - Hält sich 3 Tage im Kühlschrank.
 - Korrigiert am 2026-10-05 (Hinweis von Marcel): Titel „Beispiel – Linsen-Dal“ → „Linsen-Dal“
 - Das Foto ist nur ein gezeichneter Platzhalter – beim nächsten Kochen gerne ein echtes Foto schicken.
-
-## Kochlog
-- 2026-10-04 – Beispieleintrag: nächstes Mal mehr Ingwer.

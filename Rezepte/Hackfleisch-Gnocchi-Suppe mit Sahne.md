@@ -20,9 +20,6 @@ tags:
   - familienessen
 kinderfreundlich: true
 einfrierbar: false
-status: Ausprobieren
-bewertung:
-zuletzt_gekocht:
 quelle: rozvita.com (Sylvia Baumann)
 von: Marcel
 erstellt: "2026-10-05"
@@ -55,6 +52,3 @@ erstellt: "2026-10-05"
 ## Notizen
 - Beim Aufwärmen einen Schuss Brühe zugeben – die Gnocchi saugen Flüssigkeit auf.
 - Lässt sich gut vorbereiten. Zum Einfrieren eher ungeeignet (Gnocchi werden weich).
-
-## Kochlog
-- 

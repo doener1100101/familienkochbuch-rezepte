@@ -19,9 +19,6 @@ tags:
   - familienessen
 kinderfreundlich: true
 einfrierbar: false
-status: Ausprobieren
-bewertung:
-zuletzt_gekocht:
 quelle: foodwerk-blog.de
 von: Marcel
 erstellt: "2026-10-05"
@@ -50,6 +47,3 @@ erstellt: "2026-10-05"
 ## Notizen
 - Mild gewürzt, laut Quelle als Kinderessen gedacht.
 - Nährwerte laut Quelle: ca. 756 kcal pro Portion.
-
-## Kochlog
-- 

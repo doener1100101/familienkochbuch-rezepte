@@ -19,9 +19,6 @@ tags:
   - ostern
 kinderfreundlich: true
 einfrierbar: false
-status: Ausprobieren
-bewertung:
-zuletzt_gekocht:
 quelle: Instagram
 von: Marcel
 erstellt: "2026-10-04"
@@ -49,6 +46,3 @@ erstellt: "2026-10-04"
 - Bechergröße des Magerquarks nicht angegeben.
 - Portionen und Vorbereitungszeit nicht angegeben; nur die Backzeit (20 Min.) ist bekannt.
 - Instagram-Account auf den Screenshots nicht sichtbar – Quelle ggf. ergänzen.
-
-## Kochlog
-- 

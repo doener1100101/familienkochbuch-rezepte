@@ -18,9 +18,6 @@ tags:
   - schnell
 kinderfreundlich: true
 einfrierbar: false
-status: Ausprobieren
-bewertung:
-zuletzt_gekocht:
 quelle: https://cinnamonbelle.com/knuspriger-feta-aus-dem-airfryer-schnell-unwiderstehlich-lecker/
 von: Marcel
 erstellt: "2026-10-05"
@@ -58,6 +55,3 @@ erstellt: "2026-10-05"
 ## Notizen
 - Laut Quelle 2–4 Portionen.
 - Kein Bild: Foto vom ersten Kochen über die Büroklammer ergänzen.
-
-## Kochlog
-- 
