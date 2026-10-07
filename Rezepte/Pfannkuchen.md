@@ -22,6 +22,7 @@ quelle: https://www.chefkoch.de/rezepte/1208161226570428/Der-perfekte-Pfannkuche
 von: Marcel
 erstellt: "2026-10-07"
 ---
+![[Pfannkuchen.jpg]]
 
 ## Zutaten
 - [ ] 400 g Mehl (gern auch Vollkornmehl)
@@ -42,4 +43,3 @@ erstellt: "2026-10-07"
 
 ## Notizen
 - Gesamtzeit inkl. 30 Minuten Ruhezeit.
-- Foto beim ersten Kochen ergänzen
