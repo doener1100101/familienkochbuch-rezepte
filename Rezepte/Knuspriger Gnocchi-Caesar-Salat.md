@@ -1,7 +1,7 @@
 ---
 kategorie: Salate
 unterkategorie: Hauptsalate & Bowls
-portionen: 
+portionen: 4
 vorbereitungszeit: 15
 kochzeit: 
 gesamtzeit: 30
@@ -24,6 +24,7 @@ quelle: https://picnic.app/de/rezepte/69eb3a3694cfaa3d8452a758/knuspriger-gnocch
 von: Marcel
 erstellt: "2026-10-07"
 ---
+![[Knuspriger Gnocchi-Caesar-Salat.jpg]]
 
 ## Zutaten
 - [ ] 500 g Gnocchi
@@ -44,5 +45,4 @@ erstellt: "2026-10-07"
 
 ## Notizen
 - Tipp: Noch knuspriger werden die Gnocchi in der Heißluftfritteuse – bei 200 °C ca. 12 Min.
-- Portionenzahl steht nicht in der Quelle (bei 4 Schnitzeln vermutlich 4 Portionen).
-- Foto beim ersten Kochen ergänzen
+- Korrigiert am 2026-10-07 (Hinweis von Marcel): Portionen auf 4 gesetzt
