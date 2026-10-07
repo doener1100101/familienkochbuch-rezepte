@@ -54,8 +54,10 @@ for p in sorted(glob.glob(os.path.join(DIR, "*"))):
         continue
     img = Image.open(p)
     exif_rot = img.getexif().get(274, 1) not in (None, 1)
+    want = "PNG" if p.lower().endswith(".png") else "WEBP" if p.lower().endswith(".webp") else "JPEG"
+    wrong_format = img.format != want
     too_big = max(img.size) > MAX_SIDE or (os.path.getsize(p) > MAX_BYTES * 1.1 and not p.lower().endswith(".png"))
-    if not (too_big or exif_rot):
+    if not (too_big or exif_rot or wrong_format):
         continue
     img = ImageOps.exif_transpose(img)
     if max(img.size) > MAX_SIDE:
