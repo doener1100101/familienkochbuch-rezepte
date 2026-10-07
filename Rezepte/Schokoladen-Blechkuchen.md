@@ -24,6 +24,7 @@ quelle: https://www.chefkoch.de/rezepte/1735501282565789/Der-weltbeste-Schokolad
 von: Sina
 erstellt: "2026-10-07"
 ---
+![[Schokoladen-Blechkuchen.jpg]]
 
 ## Zutaten
 - [ ] 500 g Zartbitterschokolade
@@ -42,4 +43,3 @@ erstellt: "2026-10-07"
 
 ## Notizen
 - Menge für 1 Backblech.
-- Foto beim ersten Kochen ergänzen
