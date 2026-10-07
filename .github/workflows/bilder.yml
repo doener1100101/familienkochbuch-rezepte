@@ -1,0 +1,36 @@
+name: Bilder pflegen
+
+# Bringt jedes Rezeptbild auf höchstens 1080 px und etwa 200 KB.
+# Liegt neben einem Bild eine Datei "<Name>.zuschnitt.md" (vom Abendlauf), wird vorher zugeschnitten.
+on:
+  push:
+    branches: [ main ]
+    paths: [ 'Rezepte/Bilder/**' ]
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: bilder
+  cancel-in-progress: false
+
+jobs:
+  pflegen:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - run: pip install --quiet pillow
+      - run: python3 .github/scripts/bilder.py
+      - name: Speichern
+        run: |
+          git config user.name "Bildpflege"
+          git config user.email "bildpflege@users.noreply.github.com"
+          git add -A Rezepte/Bilder
+          if git diff --cached --quiet; then echo "Nichts zu tun"; exit 0; fi
+          git commit -m "Bilder verkleinert/zugeschnitten"
+          for i in 1 2 3 4 5; do
+            git pull --rebase origin main && git push origin HEAD:main && exit 0
+            sleep $((i * 5))
+          done
+          exit 1
