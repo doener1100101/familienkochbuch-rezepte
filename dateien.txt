@@ -9,14 +9,20 @@ Einreichungen/muxz67684w1f7.json
 Einreichungen/muxz8rxtpi7s6.json
 Einreichungen/muxzv2ms07tlx.json
 Einreichungen/muy20ktnlpiqv.json
+Einreichungen/muyeitxee41yv.json
+Einreichungen/muyekwsmfs05m.json
+Einreichungen/muyg37uauqwox.json
 README.md
 Rezepte/Bilder/Gesunder Apfelkuchen.jpg
+Rezepte/Bilder/Gulasch nach Oma Magda.jpg
 Rezepte/Bilder/Hackfleisch-Gnocchi-Suppe mit Sahne.jpg
 Rezepte/Bilder/Knuspriger Feta aus dem Airfryer.jpg
 Rezepte/Bilder/Knuspriger Gnocchi-Caesar-Salat.jpg
 Rezepte/Bilder/Kritharaki-Pfanne mit Würstchen.jpg
 Rezepte/Bilder/Linsen-Dal.jpg
+Rezepte/Bilder/Nacho-Salat.jpg
 Rezepte/Bilder/Quark-Pudding-Blätterteigstangen.jpg
+Rezepte/Bilder/Schweizer Wurstsalat.jpg
 Rezepte/Gesunder Apfelkuchen.md
 Rezepte/Gulasch nach Oma Magda.md
 Rezepte/Hackfleisch-Gnocchi-Suppe mit Sahne.md
