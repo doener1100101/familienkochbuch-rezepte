@@ -23,6 +23,7 @@ quelle: https://www.chefkoch.de/rezepte/431091134310048/Gulasch-nach-Oma-Magda.h
 von: Marcel
 erstellt: "2026-10-07"
 ---
+![[Gulasch nach Oma Magda.jpg]]
 
 ## Zutaten
 - [ ] 1 kg Rindfleisch, gewürfelt (z. B. Wade, Bug oder Schulter)
@@ -55,4 +56,3 @@ erstellt: "2026-10-07"
 - Wer mag, gibt 30 Min. vor Ende Sahne und Kartoffelstücke dazu.
 - Passt zu Kartoffelknödeln, Semmelknödeln, Salzkartoffeln, Spätzle oder Nudeln.
 - Einfrieren: abgekühlt portionsweise bis zu 3 Monate.
-- Foto beim ersten Kochen ergänzen
