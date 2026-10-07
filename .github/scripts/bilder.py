@@ -44,7 +44,10 @@ for spec in glob.glob(os.path.join(DIR, "*.zuschnitt.md")):
     nums = [float(x.replace(",", ".")) for x in re.findall(r"-?\d+(?:[.,]\d+)?", open(spec, encoding="utf-8").read())]
     if img_path and len(nums) >= 4:
         x, y, w, h = [max(0.0, min(100.0, n)) for n in nums[:4]]
-        img = ImageOps.exif_transpose(Image.open(img_path))
+        try:
+            img = ImageOps.exif_transpose(Image.open(img_path))
+        except Exception as e:
+            print("Zuschnitt übersprungen:", img_path, e); os.remove(spec); continue
         W, H = img.size
         box = (int(W * x / 100), int(H * y / 100), int(W * min(100, x + w) / 100), int(H * min(100, y + h) / 100))
         if box[2] - box[0] > 50 and box[3] - box[1] > 50:
@@ -56,7 +59,11 @@ for spec in glob.glob(os.path.join(DIR, "*.zuschnitt.md")):
 for p in sorted(glob.glob(os.path.join(DIR, "*"))):
     if not re.search(r"\.(jpe?g|png|webp)$", p, re.I):
         continue
-    img = Image.open(p)
+    try:
+        img = Image.open(p); img.load()
+    except Exception as e:
+        print("übersprungen (kein lesbares Bild):", p, e)
+        continue
     exif_rot = img.getexif().get(274, 1) not in (None, 1)
     want = "PNG" if p.lower().endswith(".png") else "WEBP" if p.lower().endswith(".webp") else "JPEG"
     wrong_format = img.format != want
