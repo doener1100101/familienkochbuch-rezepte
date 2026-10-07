@@ -14,6 +14,8 @@ Einreichungen/muyekwsmfs05m.json
 Einreichungen/muyesms2a5j64.json
 Einreichungen/muyeuaem0rjhv.json
 Einreichungen/muyg37uauqwox.json
+Einreichungen/muyh13ywfh0h9.json
+Einreichungen/muyh1qsp7s7hz.json
 README.md
 Rezepte/Bilder/Gesunder Apfelkuchen.jpg
 Rezepte/Bilder/Gulasch nach Oma Magda.jpg
@@ -25,6 +27,7 @@ Rezepte/Bilder/Linsen-Dal.jpg
 Rezepte/Bilder/Nacho-Salat.jpg
 Rezepte/Bilder/Pfannkuchen.jpg
 Rezepte/Bilder/Quark-Pudding-Blätterteigstangen.jpg
+Rezepte/Bilder/Schokoladen-Blechkuchen.jpg
 Rezepte/Bilder/Schweizer Wurstsalat.jpg
 Rezepte/Gesunder Apfelkuchen.md
 Rezepte/Gulasch nach Oma Magda.md
