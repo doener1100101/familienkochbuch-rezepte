@@ -20,7 +20,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      - run: pip install --quiet pillow
+      - run: pip install --quiet pillow pillow-avif-plugin || pip install --quiet pillow
       - run: python3 .github/scripts/bilder.py
       - name: Speichern
         run: |

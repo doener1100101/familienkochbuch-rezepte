@@ -7,6 +7,10 @@
 """
 import io, os, re, glob
 from PIL import Image, ImageOps
+try:
+    import pillow_avif  # noqa: F401  (AVIF-Bilder lesen)
+except Exception:
+    pass
 
 DIR = "Rezepte/Bilder"
 MAX_SIDE, MAX_BYTES = 1080, 200_000
