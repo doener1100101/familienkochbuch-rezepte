@@ -22,6 +22,8 @@ quelle: https://cinnamonbelle.com/knuspriger-feta-aus-dem-airfryer-schnell-unwid
 von: Marcel
 erstellt: "2026-10-05"
 ---
+![[Knuspriger Feta aus dem Airfryer.jpg]]
+
 ## Zutaten
 - [ ] 200–250 g Feta am Stück
 - [ ] 60 g Weizenmehl
@@ -54,4 +56,3 @@ erstellt: "2026-10-05"
 
 ## Notizen
 - Laut Quelle 2–4 Portionen.
-- Kein Bild: Foto vom ersten Kochen über die Büroklammer ergänzen.
