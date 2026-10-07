@@ -25,6 +25,7 @@ quelle: https://www.chefkoch.de/rezepte/937471199430581/Nacho-Salat.html
 von: Marcel
 erstellt: "2026-10-07"
 ---
+![[Nacho-Salat.jpg]]
 
 ## Zutaten
 - [ ] 2 Zwiebeln
@@ -47,4 +48,3 @@ erstellt: "2026-10-07"
 
 ## Notizen
 - Für Kinder eine milde Salsa nehmen.
-- Foto beim ersten Kochen ergänzen
