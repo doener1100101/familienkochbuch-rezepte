@@ -1,6 +1,6 @@
-.github/scripts/__pycache__/bilder.cpython-313.pyc
 .github/scripts/bilder.py
 .github/workflows/bilder.yml
+.gitignore
 Einreichungen/muxsbnzq1lzm0.json
 Einreichungen/muxtyf27y5ddf.json
 Einreichungen/muxxzj05qvsxc.json
