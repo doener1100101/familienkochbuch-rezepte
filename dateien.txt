@@ -11,6 +11,8 @@ Einreichungen/muxzv2ms07tlx.json
 Einreichungen/muy20ktnlpiqv.json
 Einreichungen/muyeitxee41yv.json
 Einreichungen/muyekwsmfs05m.json
+Einreichungen/muyesms2a5j64.json
+Einreichungen/muyeuaem0rjhv.json
 Einreichungen/muyg37uauqwox.json
 README.md
 Rezepte/Bilder/Gesunder Apfelkuchen.jpg
@@ -21,6 +23,7 @@ Rezepte/Bilder/Knuspriger Gnocchi-Caesar-Salat.jpg
 Rezepte/Bilder/Kritharaki-Pfanne mit Würstchen.jpg
 Rezepte/Bilder/Linsen-Dal.jpg
 Rezepte/Bilder/Nacho-Salat.jpg
+Rezepte/Bilder/Pfannkuchen.jpg
 Rezepte/Bilder/Quark-Pudding-Blätterteigstangen.jpg
 Rezepte/Bilder/Schweizer Wurstsalat.jpg
 Rezepte/Gesunder Apfelkuchen.md
@@ -31,7 +34,10 @@ Rezepte/Knuspriger Gnocchi-Caesar-Salat.md
 Rezepte/Kritharaki-Pfanne mit Würstchen.md
 Rezepte/Linsen-Dal.md
 Rezepte/Nacho-Salat.md
+Rezepte/Pfannkuchen.md
 Rezepte/Quark-Pudding-Blätterteigstangen.md
+Rezepte/Schokoladen-Blechkuchen.md
+Rezepte/Schweizer Wurstsalat.md
 app/Familienkochbuch.apk
 app/config.json
 app/version.json
