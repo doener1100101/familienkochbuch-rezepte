@@ -1,0 +1,31 @@
+.github/scripts/__pycache__/bilder.cpython-313.pyc
+.github/scripts/bilder.py
+.github/workflows/bilder.yml
+Einreichungen/muxsbnzq1lzm0.json
+Einreichungen/muxtyf27y5ddf.json
+Einreichungen/muxxzj05qvsxc.json
+Einreichungen/muxyvnspy6ybd.json
+Einreichungen/muxz67684w1f7.json
+Einreichungen/muxz8rxtpi7s6.json
+Einreichungen/muxzv2ms07tlx.json
+Einreichungen/muy20ktnlpiqv.json
+README.md
+Rezepte/Bilder/Gesunder Apfelkuchen.jpg
+Rezepte/Bilder/Hackfleisch-Gnocchi-Suppe mit Sahne.jpg
+Rezepte/Bilder/Knuspriger Feta aus dem Airfryer.jpg
+Rezepte/Bilder/Knuspriger Gnocchi-Caesar-Salat.jpg
+Rezepte/Bilder/Kritharaki-Pfanne mit Würstchen.jpg
+Rezepte/Bilder/Linsen-Dal.jpg
+Rezepte/Bilder/Quark-Pudding-Blätterteigstangen.jpg
+Rezepte/Gesunder Apfelkuchen.md
+Rezepte/Gulasch nach Oma Magda.md
+Rezepte/Hackfleisch-Gnocchi-Suppe mit Sahne.md
+Rezepte/Knuspriger Feta aus dem Airfryer.md
+Rezepte/Knuspriger Gnocchi-Caesar-Salat.md
+Rezepte/Kritharaki-Pfanne mit Würstchen.md
+Rezepte/Linsen-Dal.md
+Rezepte/Nacho-Salat.md
+Rezepte/Quark-Pudding-Blätterteigstangen.md
+app/Familienkochbuch.apk
+app/config.json
+app/version.json
