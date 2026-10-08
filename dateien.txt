@@ -17,6 +17,7 @@ Einreichungen/muyg37uauqwox.json
 Einreichungen/muyh13ywfh0h9.json
 Einreichungen/muyh1qsp7s7hz.json
 Einreichungen/muyhcx5urqq0j.json
+Einreichungen/muzuqbyypqx6r.json
 README.md
 Rezepte/Bilder/Gesunder Apfelkuchen.jpg
 Rezepte/Bilder/Griechische Frikadellen mit Zaziki und Kritharaki.jpg
@@ -32,6 +33,7 @@ Rezepte/Bilder/Quark-Pudding-Blätterteigstangen.jpg
 Rezepte/Bilder/Schokoladen-Blechkuchen.jpg
 Rezepte/Bilder/Schweizer Wurstsalat.jpg
 Rezepte/Gesunder Apfelkuchen.md
+Rezepte/Griechische Frikadellen mit Zaziki und Kritharaki.md
 Rezepte/Gulasch nach Oma Magda.md
 Rezepte/Hackfleisch-Gnocchi-Suppe mit Sahne.md
 Rezepte/Knuspriger Feta aus dem Airfryer.md
