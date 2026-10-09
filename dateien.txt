@@ -19,6 +19,7 @@ Einreichungen/muyh1qsp7s7hz.json
 Einreichungen/muyhcx5urqq0j.json
 Einreichungen/muzuqbyypqx6r.json
 README.md
+Rezepte/Bilder/Blitz-Butterkuchen vom Blech.jpg
 Rezepte/Bilder/Gesunder Apfelkuchen.jpg
 Rezepte/Bilder/Griechische Frikadellen mit Zaziki und Kritharaki.jpg
 Rezepte/Bilder/Gulasch nach Oma Magda.jpg
@@ -30,6 +31,7 @@ Rezepte/Bilder/Linsen-Dal.jpg
 Rezepte/Bilder/Nacho-Salat.jpg
 Rezepte/Bilder/Pfannkuchen.jpg
 Rezepte/Bilder/Quark-Pudding-Blätterteigstangen.jpg
+Rezepte/Bilder/Quinoa-Schoko-Waffeln.jpg
 Rezepte/Bilder/Schokoladen-Blechkuchen.jpg
 Rezepte/Bilder/Schweizer Wurstsalat.jpg
 Rezepte/Gesunder Apfelkuchen.md
