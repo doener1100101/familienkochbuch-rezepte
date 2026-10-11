@@ -22,6 +22,7 @@ Einreichungen/muzvedx5xq0s4.json
 Einreichungen/muzvggcld53m9.json
 Einreichungen/muzvpmhn5w42d.json
 Einreichungen/mv27jhkraaae8.json
+Einreichungen/mv3tzpr8jd1p3.json
 README.md
 Rezepte/Bilder/Blitz-Butterkuchen vom Blech.jpg
 Rezepte/Bilder/Gesunder Apfelkuchen.jpg
@@ -45,6 +46,7 @@ Rezepte/Gesunder Apfelkuchen.md
 Rezepte/Griechische Frikadellen mit Zaziki und Kritharaki.md
 Rezepte/Gulasch nach Oma Magda.md
 Rezepte/Hackfleisch-Gnocchi-Suppe mit Sahne.md
+Rezepte/Japanischer Eiersalat für Egg-Drop-Sandwiches.md
 Rezepte/Knuspriger Feta aus dem Airfryer.md
 Rezepte/Knuspriger Gnocchi-Caesar-Salat.md
 Rezepte/Kritharaki-Pfanne mit Würstchen.md
