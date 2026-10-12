@@ -27,6 +27,7 @@ Einreichungen/mv463hml19ptp.json
 Einreichungen/mv4673zkulakd.json
 Einreichungen/mv46qw9u51bsy.json
 README.md
+Rezepte/Apfel-Gewürz-Karamell (Christmas Crack).md
 Rezepte/Bilder/Apfel-Gewürz-Karamell (Christmas Crack).jpg
 Rezepte/Bilder/Blitz-Butterkuchen vom Blech.jpg
 Rezepte/Bilder/Gebackener Spitzkohl mit Senfsoße und Ei.jpg
