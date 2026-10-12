@@ -23,8 +23,13 @@ Einreichungen/muzvggcld53m9.json
 Einreichungen/muzvpmhn5w42d.json
 Einreichungen/mv27jhkraaae8.json
 Einreichungen/mv3tzpr8jd1p3.json
+Einreichungen/mv463hml19ptp.json
+Einreichungen/mv4673zkulakd.json
+Einreichungen/mv46qw9u51bsy.json
 README.md
+Rezepte/Bilder/Apfel-Gewürz-Karamell (Christmas Crack).jpg
 Rezepte/Bilder/Blitz-Butterkuchen vom Blech.jpg
+Rezepte/Bilder/Gebackener Spitzkohl mit Senfsoße und Ei.jpg
 Rezepte/Bilder/Gesunder Apfelkuchen.jpg
 Rezepte/Bilder/Griechische Frikadellen mit Zaziki und Kritharaki.jpg
 Rezepte/Bilder/Gulasch nach Oma Magda.jpg
@@ -42,6 +47,7 @@ Rezepte/Bilder/Quinoa-Schoko-Waffeln.jpg
 Rezepte/Bilder/Schokoladen-Blechkuchen.jpg
 Rezepte/Bilder/Schweizer Wurstsalat.jpg
 Rezepte/Blitz-Butterkuchen vom Blech.md
+Rezepte/Gebackener Spitzkohl mit Senfsoße und Ei.md
 Rezepte/Gesunder Apfelkuchen.md
 Rezepte/Griechische Frikadellen mit Zaziki und Kritharaki.md
 Rezepte/Gulasch nach Oma Magda.md
