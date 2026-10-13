@@ -26,6 +26,7 @@ Einreichungen/mv3tzpr8jd1p3.json
 Einreichungen/mv463hml19ptp.json
 Einreichungen/mv4673zkulakd.json
 Einreichungen/mv46qw9u51bsy.json
+Einreichungen/mv5qwuizulbwl.json
 README.md
 Rezepte/Apfel-Gewürz-Karamell (Christmas Crack).md
 Rezepte/Bilder/Apfel-Gewürz-Karamell (Christmas Crack).jpg
@@ -61,6 +62,7 @@ Rezepte/Kritharaki-Pfanne mit Würstchen.md
 Rezepte/Lasagne-Suppe.md
 Rezepte/Linsen-Dal.md
 Rezepte/Nacho-Salat.md
+Rezepte/Orangen-Vanille-Crème mit Christstollen.md
 Rezepte/Pfannkuchen.md
 Rezepte/Quark-Pudding-Blätterteigstangen.md
 Rezepte/Quinoa-Schoko-Waffeln.md
