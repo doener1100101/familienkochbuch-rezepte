@@ -32,6 +32,7 @@ Einreichungen/mv9onrr6dkg3m.json
 README.md
 Rezepte/Apfel-Gewürz-Karamell (Christmas Crack).md
 Rezepte/Bilder/Apfel-Gewürz-Karamell (Christmas Crack).jpg
+Rezepte/Bilder/Blaubeermuffins mit Joghurt.jpg
 Rezepte/Bilder/Blitz-Butterkuchen vom Blech.jpg
 Rezepte/Bilder/Cheeseburger-Kuchen.jpg
 Rezepte/Bilder/Gebackener Spitzkohl mit Senfsoße und Ei.jpg
@@ -67,6 +68,7 @@ Rezepte/Kritharaki-Pfanne mit Würstchen.md
 Rezepte/Lasagne-Suppe.md
 Rezepte/Linsen-Dal.md
 Rezepte/Nacho-Salat.md
+Rezepte/One-Pot-Orzo mit Hähnchen und Feta.md
 Rezepte/Orangen-Vanille-Crème mit Christstollen.md
 Rezepte/Pfannkuchen.md
 Rezepte/Quark-Pudding-Blätterteigstangen.md
