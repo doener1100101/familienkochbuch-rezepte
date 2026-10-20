@@ -30,12 +30,15 @@ Einreichungen/mv5qwuizulbwl.json
 Einreichungen/mv9gl3cwgw6gr.json
 Einreichungen/mv9onrr6dkg3m.json
 Einreichungen/mvaipi673sqxm.json
+Einreichungen/mvgjl7g0ptzhz.json
+Einreichungen/mvgjsmkhs77v2.json
 README.md
 Rezepte/Apfel-Gewürz-Karamell (Christmas Crack).md
 Rezepte/Bilder/Apfel-Gewürz-Karamell (Christmas Crack).jpg
 Rezepte/Bilder/Blaubeermuffins mit Joghurt.jpg
 Rezepte/Bilder/Blitz-Butterkuchen vom Blech.jpg
 Rezepte/Bilder/Cheeseburger-Kuchen.jpg
+Rezepte/Bilder/Cookies mit weißer Schokolade.jpg
 Rezepte/Bilder/Gebackener Spitzkohl mit Senfsoße und Ei.jpg
 Rezepte/Bilder/Gesunder Apfelkuchen.jpg
 Rezepte/Bilder/Griechische Frikadellen mit Zaziki und Kritharaki.jpg
@@ -59,10 +62,12 @@ Rezepte/Bilder/Schweizer Wurstsalat.jpg
 Rezepte/Blaubeermuffins mit Joghurt.md
 Rezepte/Blitz-Butterkuchen vom Blech.md
 Rezepte/Cheeseburger-Kuchen.md
+Rezepte/Cookies mit weißer Schokolade.md
 Rezepte/Gebackener Spitzkohl mit Senfsoße und Ei.md
 Rezepte/Gesunder Apfelkuchen.md
 Rezepte/Griechische Frikadellen mit Zaziki und Kritharaki.md
 Rezepte/Gulasch nach Oma Magda.md
+Rezepte/Hackbällchen Toskana.md
 Rezepte/Hackfleisch-Gnocchi-Suppe mit Sahne.md
 Rezepte/Japanischer Eiersalat für Egg-Drop-Sandwiches.md
 Rezepte/Knuspriger Feta aus dem Airfryer.md
