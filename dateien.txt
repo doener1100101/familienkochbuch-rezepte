@@ -46,6 +46,7 @@ Rezepte/Bilder/Gulasch nach Oma Magda.jpg
 Rezepte/Bilder/Hackbällchen Toskana.jpg
 Rezepte/Bilder/Hackfleisch-Gnocchi-Suppe mit Sahne.jpg
 Rezepte/Bilder/Japanischer Eiersalat für Egg-Drop-Sandwiches.jpg
+Rezepte/Bilder/Knusprige Couscous-Karotten-Taler mit Feta.jpg
 Rezepte/Bilder/Knuspriger Feta aus dem Airfryer.jpg
 Rezepte/Bilder/Knuspriger Gnocchi-Caesar-Salat.jpg
 Rezepte/Bilder/Kritharaki-Pfanne mit Würstchen.jpg
@@ -70,6 +71,7 @@ Rezepte/Gulasch nach Oma Magda.md
 Rezepte/Hackbällchen Toskana.md
 Rezepte/Hackfleisch-Gnocchi-Suppe mit Sahne.md
 Rezepte/Japanischer Eiersalat für Egg-Drop-Sandwiches.md
+Rezepte/Knusprige Couscous-Karotten-Taler mit Feta.md
 Rezepte/Knuspriger Feta aus dem Airfryer.md
 Rezepte/Knuspriger Gnocchi-Caesar-Salat.md
 Rezepte/Kritharaki-Pfanne mit Würstchen.md
