@@ -36,6 +36,10 @@ Einreichungen/mvnv8hwnntsus.json
 Einreichungen/mvnvcc8rpcsd5.json
 Einreichungen/mvnvhtkpnz569.json
 Einreichungen/mvnvilqm9m4c6.json
+Einreichungen/mvo4a1zl34hqr.json
+Einreichungen/mvo51xqd34ndj.json
+Einreichungen/mvo54xsrpw9f5.json
+Einreichungen/mvp5n1f7q135d.json
 README.md
 Rezepte/Apfel-Gewürz-Karamell (Christmas Crack).md
 Rezepte/Bilder/Apfel-Gewürz-Karamell (Christmas Crack).jpg
@@ -43,6 +47,7 @@ Rezepte/Bilder/Blaubeermuffins mit Joghurt.jpg
 Rezepte/Bilder/Blitz-Butterkuchen vom Blech.jpg
 Rezepte/Bilder/Cheeseburger-Kuchen.jpg
 Rezepte/Bilder/Cookies mit weißer Schokolade.jpg
+Rezepte/Bilder/Eierstich.jpg
 Rezepte/Bilder/Gebackener Spitzkohl mit Senfsoße und Ei.jpg
 Rezepte/Bilder/Gesunder Apfelkuchen.jpg
 Rezepte/Bilder/Griechische Frikadellen mit Zaziki und Kritharaki.jpg
@@ -76,6 +81,7 @@ Rezepte/Gulasch nach Oma Magda.md
 Rezepte/Hackbällchen Toskana.md
 Rezepte/Hackfleisch-Gnocchi-Suppe mit Sahne.md
 Rezepte/Japanischer Eiersalat für Egg-Drop-Sandwiches.md
+Rezepte/Joghurt-Vanille-Waffeln.md
 Rezepte/Kartoffelsalat.md
 Rezepte/Knusprige Couscous-Karotten-Taler mit Feta.md
 Rezepte/Knuspriger Feta aus dem Airfryer.md
