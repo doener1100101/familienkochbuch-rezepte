@@ -1,6 +1,6 @@
 ---
 kategorie: Suppen & Eintöpfe
-unterkategorie: Klare Suppen
+unterkategorie: Suppeneinlagen
 portionen: 6
 vorbereitungszeit: 5
 kochzeit: 13

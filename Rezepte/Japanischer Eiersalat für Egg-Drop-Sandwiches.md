@@ -1,6 +1,6 @@
 ---
 kategorie: Frühstück
-unterkategorie: Eierspeisen
+unterkategorie: Brot & Aufstriche
 portionen: 4
 vorbereitungszeit: 
 kochzeit: 
