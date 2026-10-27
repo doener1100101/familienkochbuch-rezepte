@@ -73,6 +73,7 @@ Rezepte/Blaubeermuffins mit Joghurt.md
 Rezepte/Blitz-Butterkuchen vom Blech.md
 Rezepte/Cheeseburger-Kuchen.md
 Rezepte/Cookies mit weißer Schokolade.md
+Rezepte/Eierstich.md
 Rezepte/Gebackener Spitzkohl mit Senfsoße und Ei.md
 Rezepte/Gesunder Apfelkuchen.md
 Rezepte/Griechische Frikadellen mit Zaziki und Kritharaki.md
@@ -86,6 +87,7 @@ Rezepte/Kartoffelsalat.md
 Rezepte/Knusprige Couscous-Karotten-Taler mit Feta.md
 Rezepte/Knuspriger Feta aus dem Airfryer.md
 Rezepte/Knuspriger Gnocchi-Caesar-Salat.md
+Rezepte/Krautsalat.md
 Rezepte/Kritharaki-Pfanne mit Würstchen.md
 Rezepte/Käsesalat mit Ananas.md
 Rezepte/Lasagne-Suppe.md
@@ -102,3 +104,4 @@ Rezepte/Schweizer Wurstsalat.md
 app/Familienkochbuch.apk
 app/config.json
 app/version.json
+kategorien.md
