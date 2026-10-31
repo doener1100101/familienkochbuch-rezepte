@@ -51,6 +51,7 @@ Einreichungen/mvs5og2o49hai.json
 Einreichungen/mvs6n58k9i3l1.json
 Einreichungen/mvs6qbhufzukd.json
 Einreichungen/mvv7bosehycrp.json
+Einreichungen/mvvei8od7bdxi.json
 README.md
 Rezepte/Apfel-Gewürz-Karamell (Christmas Crack).md
 Rezepte/Bilder/Apfel-Gewürz-Karamell (Christmas Crack).jpg
@@ -124,6 +125,7 @@ Rezepte/Quinoa-Schoko-Waffeln.md
 Rezepte/Salzbraten mit kalter Zwiebelsoße.md
 Rezepte/Schokoladen-Blechkuchen.md
 Rezepte/Schweizer Wurstsalat.md
+Rezepte/Spekulatius-Käsekuchen.md
 app/Familienkochbuch.apk
 app/config.json
 app/version.json
