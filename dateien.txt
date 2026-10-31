@@ -82,6 +82,7 @@ Rezepte/Bilder/Quark-Pudding-Blätterteigstangen.jpg
 Rezepte/Bilder/Quinoa-Schoko-Waffeln.jpg
 Rezepte/Bilder/Schokoladen-Blechkuchen.jpg
 Rezepte/Bilder/Schweizer Wurstsalat.jpg
+Rezepte/Bilder/Spekulatius-Käsekuchen.jpg
 Rezepte/Blaubeermuffins mit Joghurt.md
 Rezepte/Blitz-Butterkuchen vom Blech.md
 Rezepte/Cheeseburger-Kuchen.md
