@@ -53,6 +53,7 @@ Einreichungen/mvs6qbhufzukd.json
 Einreichungen/mvv7bosehycrp.json
 Einreichungen/mvvei8od7bdxi.json
 Einreichungen/mw9bll10m6oxp.json
+Einreichungen/mwcj5c40kgxtg.json
 README.md
 Rezepte/Apfel-Gewürz-Karamell (Christmas Crack).md
 Rezepte/Bilder/Apfel-Gewürz-Karamell (Christmas Crack).jpg
@@ -125,10 +126,12 @@ Rezepte/Pfannkuchen.md
 Rezepte/Quark-Pudding-Blätterteigstangen.md
 Rezepte/Quarktorte ohne Boden.md
 Rezepte/Quinoa-Schoko-Waffeln.md
+Rezepte/Saftiger Spekulatius-Kuchen mit weißer Schokoglasur.md
 Rezepte/Salzbraten mit kalter Zwiebelsoße.md
 Rezepte/Schokoladen-Blechkuchen.md
 Rezepte/Schweizer Wurstsalat.md
 Rezepte/Spekulatius-Käsekuchen.md
+Rezepte/Waldmeistertörtchen.md
 app/Familienkochbuch.apk
 app/config.json
 app/version.json
