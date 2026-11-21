@@ -54,6 +54,7 @@ Einreichungen/mvv7bosehycrp.json
 Einreichungen/mvvei8od7bdxi.json
 Einreichungen/mw9bll10m6oxp.json
 Einreichungen/mwcj5c40kgxtg.json
+Einreichungen/mwq80dkcjduh8.json
 README.md
 Rezepte/Apfel-Gewürz-Karamell (Christmas Crack).md
 Rezepte/Bilder/Apfel-Gewürz-Karamell (Christmas Crack).jpg
@@ -71,6 +72,7 @@ Rezepte/Bilder/Gulasch nach Oma Magda.jpg
 Rezepte/Bilder/Hackbällchen Toskana.jpg
 Rezepte/Bilder/Hackfleisch-Gnocchi-Suppe mit Sahne.jpg
 Rezepte/Bilder/Japanischer Eiersalat für Egg-Drop-Sandwiches.jpg
+Rezepte/Bilder/Kartoffel-Cordon-Bleu aus dem Ofen.jpg
 Rezepte/Bilder/Knusprige Couscous-Karotten-Taler mit Feta.jpg
 Rezepte/Bilder/Knuspriger Feta aus dem Airfryer.jpg
 Rezepte/Bilder/Knuspriger Gnocchi-Caesar-Salat.jpg
@@ -108,6 +110,7 @@ Rezepte/Hackbällchen Toskana.md
 Rezepte/Hackfleisch-Gnocchi-Suppe mit Sahne.md
 Rezepte/Japanischer Eiersalat für Egg-Drop-Sandwiches.md
 Rezepte/Joghurt-Vanille-Waffeln.md
+Rezepte/Kartoffel-Cordon-Bleu aus dem Ofen.md
 Rezepte/Kartoffelpuffer (Reibekuchen).md
 Rezepte/Kartoffelsalat.md
 Rezepte/Kartoffelsuppe mit Kassler und Würstchen.md
